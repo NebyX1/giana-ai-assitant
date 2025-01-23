@@ -1,0 +1,7 @@
+1- Crear env: python -m venv env
+2- Activar entorno local: env\Scripts\activate
+3- Correr streamlit: streamlit run giana.py
+
+Otros:
+Obtener el requeriments.txt: pip freeze > requirements.txt
+Instalar el requirements.txt: pip install -r requirements.txt
